@@ -1,0 +1,11 @@
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\bin\Debug\SendWhatsAppMessageFromCSharp.exe.config
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\bin\Debug\SendWhatsAppMessageFromCSharp.exe
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\bin\Debug\SendWhatsAppMessageFromCSharp.pdb
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.csproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.Form1.resources
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.Properties.Resources.resources
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.csproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.csproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.exe
+C:\Users\najwa\Desktop\Done Api\SendWhatsAppMessageFromCSharp\obj\Debug\SendWhatsAppMessageFromCSharp.pdb

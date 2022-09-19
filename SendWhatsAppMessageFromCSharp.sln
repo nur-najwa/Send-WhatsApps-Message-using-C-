@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendWhatsAppMessageFromCSharp", "SendWhatsAppMessageFromCSharp.csproj", "{723C2ACD-842D-4D89-B68F-91DBBBFCB2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723C2ACD-842D-4D89-B68F-91DBBBFCB2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723C2ACD-842D-4D89-B68F-91DBBBFCB2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723C2ACD-842D-4D89-B68F-91DBBBFCB2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723C2ACD-842D-4D89-B68F-91DBBBFCB2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49F4B72-65E8-45F3-962B-DE81F8180EAD}
+	EndGlobalSection
+EndGlobal
